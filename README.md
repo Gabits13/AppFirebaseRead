@@ -1,6 +1,6 @@
 # 📱 App - Conectado com Firebase
 
-![Imagem do App](.png)
+![Imagem do App](img.png)
 
 Um aplicativo simples e funcional que utiliza o [Firebase](https://firebase.google.com/) para autenticação, banco de dados em tempo real e/ou armazenamento. Este projeto tem como objetivo demonstrar uma integração básica com os serviços do Firebase em um app leve e fácil de entender.
 
